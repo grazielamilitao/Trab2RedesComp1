@@ -1,4 +1,4 @@
-# Trab2RedesComp1
+# Trabalho2-documentacao-PaulaGraziela.md 
 
 # Trabalho 2: Integração de habilidades - 2023/1
 **Disciplina: Redes de Computadores**
