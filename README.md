@@ -105,13 +105,13 @@
 
 ### IPv6
 #### Roteador Pato Branco
-| Rede de Destino/Prefixo      | Next Hop                     | Interface de Saída |
-|------------------------------|------------------------------|--------------------|
-|                              |                              |                    |
-|                              |                              |                    |
-|                              |                              |                    |
-|                              |                              |                    |
-|                              |                              |                    |
+| Rede de Destino/Prefixo          | Next Hop                       | Interface de Saída |
+|----------------------------------|--------------------------------|--------------------|
+| 2001:DB8:CAFE:**29**FF::04:0/112 |2001:DB8:CAFE:**29**FF::00:2/112|       Se0/0/0             |
+|                                  |                              |                    |
+|                                  |                              |                    |
+|                                  |                              |                    |
+|                                  |                              |                    |
       
       
 #### Roteador Francisco Beltrão
