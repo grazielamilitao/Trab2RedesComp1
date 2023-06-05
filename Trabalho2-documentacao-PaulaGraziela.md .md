@@ -1,11 +1,9 @@
-# Trabalho2-documentacao-PaulaGraziela.md 
-
 # Trabalho 2: Integração de habilidades - 2023/1
 **Disciplina: Redes de Computadores**
 
-**Curso: Engenharia de Computação / Elétrica**
+**Curso: Engenharia de Computação**
 
-**Nome/RA:** Paula Graziela Militão Valadares 
+**Nome/RA:** Paula Graziela Militão Valadares
 
 
 ## Tarefa 1:  Sub-Redes
