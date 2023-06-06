@@ -3,10 +3,12 @@
 
 **Curso: Engenharia de Computação**
 
-**Nome/RA:** Paula Graziela Militão Valadares
+**Nome/RA:** Paula Graziela Militão Valadares/2157241
 
 **N=41| NN=29**
 
+**Rede IPV4:** 200.134.41.0/24
+**Rede IPV6:** 2001:DB8:CAFE:**29**00::/56
 
 ## Tarefa 1:  Sub-Redes
 | Sub- Rede |             IPv6 - Sub-Rede            |  IPv4 - Sub-Rede  |  IPv4 - Máscara   | IPv4 - Broadcast  |    
