@@ -3,7 +3,7 @@
 
 **Curso: Engenharia de Computação**
 
-**Nome/RA:** Paula Graziela Militão Valadares/2157241
+**Nome/RA:** Graziela Militão
 
 **N=41 | NN=29**
 
